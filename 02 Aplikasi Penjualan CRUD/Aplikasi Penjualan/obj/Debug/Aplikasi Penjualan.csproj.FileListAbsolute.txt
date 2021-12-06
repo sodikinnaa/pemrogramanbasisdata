@@ -1,0 +1,28 @@
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.csprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Properties.Resources.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.csproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.GUI.Masterbarang.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.csprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.GUI.Masterbarang.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.GUI.Transaksi.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Properties.Resources.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.csproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\bin\Debug\MySql.Data.dll
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.manifest
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.application
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe.manifest
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan2\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.application

@@ -1,0 +1,11 @@
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.csprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Properties.Resources.resources
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.csproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Kuliah\SEMESTER 3\PBD\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.GUI.Masterbarang.resources
